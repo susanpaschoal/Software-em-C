@@ -24,8 +24,8 @@ geração de relatórios e medidas de segurança, como mascaramento de dados sen
   - Gerenciamento: Atualização de informações globais e individuais.
  
  ## 🌟 Manual de Instalação
-- Requisitos:
-- -IDE recomendada: Code::Blocks.
+ Requisitos:
+- IDE recomendada: Code::Blocks.
 - Compilador: GCC via MinGW.
 - Passos de Instalação:
 - Baixe e descompacte o código.
